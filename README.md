@@ -13,3 +13,5 @@ document
    * [深入理解JVM - 虚拟机字节码指令集](https://blog.csdn.net/xiaolyuh123/article/details/104030176)
    * [轻松看懂Java字节码](https://mp.weixin.qq.com/s/HMuARN4dGSJtPTV8fZDW5Q)
  - [今日头条屏幕适配方案终极版正式发布!](https://juejin.cn/post/6844903697000972295)
+ - [Shield——开源的移动端页面模块化开发框架](https://tech.meituan.com/2017/12/28/shield-opensource.html)
+ - [Android开发高手课](https://time.geekbang.org/column/article/83148)
